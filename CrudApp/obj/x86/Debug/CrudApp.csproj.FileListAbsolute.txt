@@ -1,0 +1,10 @@
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\bin\x86\Debug\CrudApp.exe.config
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\bin\x86\Debug\CrudApp.exe
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\bin\x86\Debug\CrudApp.pdb
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\obj\x86\Debug\CrudApp.csproj.ResolveComReference.cache
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\obj\x86\Debug\CrudApp.Form1.resources
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\obj\x86\Debug\CrudApp.Properties.Resources.resources
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\obj\x86\Debug\CrudApp.csproj.GenerateResource.cache
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\obj\x86\Debug\CrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\obj\x86\Debug\CrudApp.exe
+C:\Users\Altug\Documents\Visual Studio 2017\Projects\CrudApp\CrudApp\obj\x86\Debug\CrudApp.pdb
